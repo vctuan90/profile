@@ -1,4 +1,4 @@
-# 👨‍💻 Tuan Vo - Senior Full-Stack Developer & Technical Lead
+# 👨‍💻 Tuan Vo - Senior Full-Stack Developer & Technical Lead & Project Manager
 
 [![GitHub followers](https://img.shields.io/github/followers/vctuan?label=Follow&style=social)](https://github.com/vctuan)
 
