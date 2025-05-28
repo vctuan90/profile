@@ -4,7 +4,7 @@
 
 ## 🎯 What I Can Bring to Your Project
 
-With 14 years of hands-on experience in full-stack development and technical leadership, I deliver high-impact solutions across:
+With 14 years of hands-on experience in full-stack development, technical leadership and Project Manager, I deliver high-impact solutions across:
 
 ### Backend Development
 
@@ -179,12 +179,6 @@ Automated shipping fee calculation system based on price list uploads, supportin
    - 14 years of experience
    - Enterprise-scale projects
    - Consistent delivery
-
-## 📫 Let's Connect
-
-- 📧 Email: [chituan90@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/tuanvo90]
-- 🌐 Portfolio: [https://github.com/vctuan90]
 
 ---
 
